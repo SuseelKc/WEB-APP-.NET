@@ -52,7 +52,7 @@
 
 
    
- <h2>Best Selling Course</h2>
+ <h2>Student Enrollment Details</h2>
 
 <br />
         <asp:TextBox ID="TextBox1" runat="server"  VALUE="Student" Enabled="false"></asp:TextBox>

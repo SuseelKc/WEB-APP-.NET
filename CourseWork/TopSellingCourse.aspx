@@ -90,12 +90,6 @@
             <Columns>
                 <asp:BoundField DataField="COURSE_TITLE" HeaderText="Course Title" />
                 <asp:BoundField DataField="enroll_count" HeaderText="Enrollment Count" />
-                <asp:TemplateField HeaderText="Actions">
-                    <ItemTemplate>
-                        <a href="#" class="btn btn-edit">Edit</a>
-                        <a href="#" class="btn btn-delete">Delete</a>
-                    </ItemTemplate>
-                </asp:TemplateField>
             </Columns>
      </asp:GridView>
 
