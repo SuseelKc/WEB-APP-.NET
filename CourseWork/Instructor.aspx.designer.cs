@@ -11,7 +11,7 @@ namespace CourseWork
 {
 
 
-    public partial class About
+    public partial class Instructor
     {
 
         /// <summary>
